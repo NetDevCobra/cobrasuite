@@ -1,3 +1,6 @@
+
+<img width="673" height="298" alt="cobrasuite" src="https://github.com/user-attachments/assets/0c71fca2-7051-4e17-aa87-dcafdb5255de" />
+
 # COBRASUITE v1.1.0
 **Cybernetic Offensive & Breaching Routine Automation Suite**
 
