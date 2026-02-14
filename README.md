@@ -30,7 +30,7 @@ Setelah dijalankan, aplikasi akan secara otomatis mengelola folder berikut:
 
     /scans          : File log dan capture mentah (.cap).
 
-    /wordlists      : Letakkan file rockyou.txt atau kamus lainnya di sini.
+    /wordlists      : Letakkan file rockyou.txt atau kamus lainnya di sini. (Masukan WordList Yang Sudah Ada Atau Yang Terbaru Di Folder Ini, Akan Ada Selection WordList)
 
     /hashcat_exports: File .hc22000 siap crack untuk GPU.
 
