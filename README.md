@@ -10,9 +10,12 @@ Terima kasih telah menggunakan **COBRASUITE**. Ini adalah versi produksi (Releas
 
 ## 🛠️ Persiapan Sistem
 Sebelum menjalankan, pastikan sistem Anda memiliki alat pendukung berikut (Aplikasi akan mengecek secara otomatis):
+<img width="772" height="292" alt="dependency" src="https://github.com/user-attachments/assets/3ba2e151-587d-4adc-9e82-1d65bbe808ab" />
+
 * `aircrack-ng`
 * `hcxtools`
 * `hashcat`
+* 'Wordlist'
 
 ## 🚀 Cara Menjalankan
 1. **Ekstrak File** (Jika di-zip):
