@@ -40,7 +40,7 @@ Setelah dijalankan, aplikasi akan secara otomatis mengelola folder berikut:
 
 Interface Tidak Muncul? Pastikan adapter WiFi mendukung Monitor Mode. Gunakan perintah rfkill unblock all jika WiFi terblokir secara software/hardware.
 
-ashcat Gagal?
+Hashcat Gagal?
 Pastikan driver GPU (NVIDIA/AMD) sudah terinstal dengan benar jika ingin menggunakan akselerasi hardware.
 
 Error Library (.so)?
